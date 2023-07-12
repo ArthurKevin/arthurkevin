@@ -3,7 +3,7 @@
 - 🔐 CyberSecurity & Web Developer Front-End | 🔭
 - 🌱 Plante Para Colher ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark_dimmed_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurKevin&theme=dark&show_icons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
