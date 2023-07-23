@@ -1,6 +1,6 @@
 ### Olá, Mundo! Tenho Boas Notícias 📰
 
-- 🔐 CyberSecurity & Web Developer Front-End | 🔭
+- 🔐 CyberSecurity & Web Developer Full-Stack | 🔭
 - 🌱 Plante Para Colher ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurkevin&theme=dark&show_icons=true)
