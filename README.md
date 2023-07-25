@@ -1,5 +1,5 @@
  ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hello, World !
- ## 🔐 CyberSecurity & Web Developer Full-Stack | 🔭.
+ ## 🔐 CyberSecurity & Web Developer Full-Stack | 🔭
 
  
     Plante Para Colher | 🌱
